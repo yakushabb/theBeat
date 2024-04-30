@@ -7,7 +7,9 @@
   
   <metadata_license>CC-BY-SA-4.0</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
-  <developer_name>Victor Tran</developer_name>
+  <developer id="com.vicr123">
+    <name>Victor Tran</name>
+  </developer>
   
   <recommends>
     <control>pointing</control>
@@ -40,7 +42,7 @@
     <content_attribute id="social-info">mild</content_attribute>
   </content_rating>
   
-  <url type="homepage">http://vicr123.com/</url>
+  <url type="homepage">https://vicr123.com/</url>
   <url type="help">https://help.vicr123.com/docs/thebeat/intro</url>
   <url type="translate">https://translate.vicr123.com/projects/thebeat/</url>
   
